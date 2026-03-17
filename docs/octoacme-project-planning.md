@@ -3,6 +3,13 @@
 ## Purpose
 Turn an approved initiative into an actionable plan and backlog for delivery.
 
+## Team Composition
+When assembling a project team, refer to [Roles and Personas](octoacme-roles-and-personas.md) for full role descriptions and interaction guidance. Depending on project scope, consider including:
+- **UX Designer** for features with significant user-facing changes
+- **Data Analyst** to define success metrics and instrument telemetry early
+- **Release Manager** when coordinating complex or high-risk deployments
+- **Support/Customer Success** to ensure readiness for customer-facing releases
+
 ## Objectives
 - Break work into shippable increments
 - Identify dependencies and risks
