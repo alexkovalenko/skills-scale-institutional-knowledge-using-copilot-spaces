@@ -22,6 +22,14 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- UX Designers review implemented features against design specs before sign-off
+- Data Analysts instrument new features for telemetry during the sprint
+
+## Cross-functional Coordination
+- UX Designer involvement begins at sprint planning for feature work requiring new UI
+- Data Analyst provides metric dashboards reviewed during weekly delivery syncs
+- Release Manager is engaged when a sprint output is destined for a near-term release
+- Support/Customer Success is briefed on upcoming changes before each release
 
 ## Reporting & Metrics
 - Track velocity and burndown
